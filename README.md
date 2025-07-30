@@ -2,13 +2,13 @@
 
 A comprehensive collection of n8n workflow automations covering AI, marketing, sales, and business process automation. This repository contains 48 different automation workflows that can streamline various business operations and personal productivity tasks.
 
-## 🤖 What is n8n?
+## What is n8n?
 
 n8n is a powerful workflow automation tool that allows you to connect different apps and services to automate repetitive tasks. It's an open-source alternative to tools like Zapier and Integromat, offering visual workflow building with extensive customization options.
 
-## 🚀 Automations Included
+## Automations Included
 
-### 🎯 Marketing & Social Media
+### Marketing & Social Media
 - **FB Ad Spy Tool** - Monitor and analyze Facebook advertisements
 - **Viral AI Videos** - Generate engaging video content automatically
 - **Viral Baby Videos** - Create trending baby-themed video content
@@ -20,7 +20,7 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 - **Social Media Scraper** - Extract data from social platforms
 - **Marketing AI Team** - Comprehensive marketing automation suite
 
-### 🎥 Video & Content Creation
+### Video & Content Creation
 - **AI Video Analysis** - Automated video content analysis
 - **Faceless Video Maker** - Create videos without showing faces
 - **Faceless Video AI** - AI-powered faceless video generation
@@ -29,7 +29,7 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 - **AI Image Automation** - Streamlined image processing
 - **Carousel & Slides Automation** - Automated presentation creation
 
-### 💼 Business & Sales
+### Business & Sales
 - **Client Onboarding System** - Streamline new client processes
 - **LeadGen Outreach** - Automated lead generation campaigns
 - **Cold Email Automation** - Personalized cold email sequences
@@ -39,7 +39,7 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 - **Invoice Tracker** - Automated invoice management
 - **Meeting No-show Eliminator** - Reduce meeting cancellations
 
-### 🔍 Data & Analytics
+### Data & Analytics
 - **Real-Time Insights System** - Live data monitoring and analysis
 - **Agent Tracking System** - Monitor agent performance
 - **Scraping Automation** - Automated web data extraction
@@ -47,7 +47,7 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 - **Website Extractor** - Automated website data collection
 - **Error Logger Workflow** - System error monitoring and logging
 
-### 🤖 AI & Automation
+### AI & Automation
 - **ChatGPT Image Workflow** - AI-powered image generation
 - **ChatGPT Automation System** - Comprehensive ChatGPT integration
 - **AI Clone Avatar System** - Create AI-powered avatars
@@ -59,19 +59,19 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 - **WhatsApp AI Agent** - Intelligent WhatsApp automation
 - **AI Avatar Social Automation** - Social media AI avatars
 
-### 💻 Development & Integration
+### Development & Integration
 - **Lovable Web App Builder** - Automated web application creation
 - **MCP Integration** - Model Context Protocol integrations
 - **Claude MCP Content Automation** - Claude AI content workflows
 
-### 📧 Communication & Workflow
+### Communication & Workflow
 - **Email & Complaint Automation** - Automated email management
 - **Job Search Automation** - Streamlined job application process
 - **Inbox Automation** - Intelligent email sorting and responses
 - **Automated Hiring Workflow** - Recruitment process automation
 - **Meta Ad Automation** - Facebook/Instagram ad management
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - n8n installed (self-hosted or cloud)
@@ -94,7 +94,7 @@ n8n is a powerful workflow automation tool that allows you to connect different 
 
 4. Follow the specific README in each automation folder for detailed setup instructions
 
-## ⚙️ Configuration
+## Configuration
 
 Each automation may require different configurations:
 - **API Keys**: Various services require authentication
@@ -102,7 +102,7 @@ Each automation may require different configurations:
 - **Credentials**: Set up service-specific credentials in n8n
 - **Environment Variables**: Configure any required environment settings
 
-## 🔧 Customization
+## Customization
 
 All workflows are designed to be customizable:
 - Modify trigger conditions
@@ -111,13 +111,13 @@ All workflows are designed to be customizable:
 - Add additional integrations
 - Customize AI prompts and parameters
 
-## 📚 Learning Resources
+## Learning Resources
 
 - [n8n Documentation](https://docs.n8n.io/)
 - [n8n Community](https://community.n8n.io/)
 - [n8n Templates](https://n8n.io/workflows/)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have improvements or new automations:
 
@@ -126,7 +126,7 @@ Contributions are welcome! If you have improvements or new automations:
 3. Add your automation with proper documentation
 4. Submit a pull request
 
-## ⚠️ Important Notes
+## Important Notes
 
 - **API Limits**: Be aware of rate limits for various services
 - **Costs**: Some integrations may incur costs (OpenAI, etc.)
